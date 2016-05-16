@@ -1,0 +1,30 @@
+{
+  "name": "ts-react-boilerplate",
+  "version": "0.0.1",
+  "description": "A boilerplate for projects with typescript, react, webpack (hot reloading), vscode and tslint",
+  "main": "index.js",
+  "scripts": {
+    "lint": "tslint index.ts -c tslint.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomas-jeepe/ts-react-boilerplate.git"
+  },
+  "keywords": [
+    "boilerplate",
+    "tslint",
+    "vscode",
+    "react",
+    "typescript"
+  ],
+  "author": "thomas-jeepe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thomas-jeepe/ts-react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/thomas-jeepe/ts-react-boilerplate#readme",
+  "devDependencies": {
+    "tslint": "^3.10.2",
+    "typescript": "^1.8.10"
+  }
+}

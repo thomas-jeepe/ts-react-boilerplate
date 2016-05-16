@@ -1,0 +1,9 @@
+{
+  "files.exclude": {
+    "**/npm-debug.log": true,
+    "**/node_modules": true,
+    "**/.DS_Store": true,
+    "**/*.js": { "when": "$(basename).ts"},
+    "**/*.js.map": true
+  }
+}
